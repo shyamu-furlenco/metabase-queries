@@ -82,7 +82,7 @@ WITH
     GROUP BY
         ALL
     ORDER BY
-      1, 2, 3, 6,9, 10 DESC
+      1, 2, 3, 6,9, 10 
   )
 SELECT
   *
